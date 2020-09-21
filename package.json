@@ -1,0 +1,12 @@
+{
+    "name": "worker",
+    "version": "0.0.1",
+    "scripts": {
+      "start": "node worker.js"
+    },
+    "dependencies": {
+      "express": ">=3.11.0",
+      "aws-sdk": "~2.0.0-rc9",
+      "async": "^0.2.10"
+    }
+  }
